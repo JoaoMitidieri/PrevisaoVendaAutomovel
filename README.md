@@ -31,11 +31,11 @@ Passo 9: Aplicando Label Encoding
 
 Passo 10: Importando Biblioteca para usar o Label Encoding
 
-Passo 11: Definindo Valores de X e Y
+Passo 11: Definindo Valores de X1 e Y1
 
 Passo 12: Treinando Modelo Preditivo atráves de Label Enconding
 
-Passo 13: Comparando a Acurácia dos modelos
+Passo 13: Comparando a Acurácia dos modelos, para concluir qual modelo é mais preciso
 
 Passo 14: Salvando Modelo treinado com a Biblioteca joblib
 
