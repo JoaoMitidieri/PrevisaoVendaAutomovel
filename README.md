@@ -15,7 +15,7 @@ Passo 1: Instalando e Carregando os Pacotes
 
 Passo 2: Carregando os Dados
 
-Passo 3: Aplicando One-Hot-Encoding
+Passo 3: Tranformando e aplicando o tipo One-Hot-Encoding de codificação
 
 Passo 4: Obtendo variáveis Dummy para o DataFrame
 
@@ -27,7 +27,7 @@ Passo 7: Definindo Valores de X e Y
 
 Passo 8: Treinando Modelo Preditivo atráves de One-Hot-Encoding
 
-Passo 9: Aplicando Label Encoding
+Passo 9: Tranformando e aplicando o tipo Label Encoding de codificação
 
 Passo 10: Importando Biblioteca para usar o Label Encoding
 
